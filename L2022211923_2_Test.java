@@ -5,6 +5,8 @@ import static org.junit.Assert.*;
 public class Solution2Test {
     Solution2 solution2 = new Solution2();
 
+    //好好好
+
     @Test
     public void test1() {
         String s = "";
